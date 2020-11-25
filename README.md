@@ -25,4 +25,8 @@ password 1: ESTUDAR
 password 2: PRATICAR
 
 
+Aula03:
+password 1: PROFISSIONAL
+password 2: SUCESSO
+
 
