@@ -31,3 +31,5 @@ password 2: SUCESSO
 
 URL: http://www.manguaca.ml/
 
+
+FOCO, PERSISTÊNCIA, ESTUDAR, PRATICAR, PROFISSIONAL, SUCESSO
